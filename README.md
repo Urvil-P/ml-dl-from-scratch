@@ -4,7 +4,7 @@
 | Done | Algorithm | Difficulty | Main Challenge |
 |------|-----------|------------|----------------|
 | ✅ | Linear Regression | ⭐ | Gradients |
-| ☐ | Logistic Regression | ⭐⭐ | Sigmoid + BCE |
+| ✅ | Logistic Regression | ⭐⭐ | Sigmoid + BCE |
 | ☐ | KNN | ⭐ | Distance Computation |
 | ☐ | Naive Bayes | ⭐⭐ | Probability Calculations |
 | ☐ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |

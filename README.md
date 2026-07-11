@@ -6,7 +6,7 @@
 | ✅ | Linear Regression | ⭐ | Gradient Descent |
 | ✅ | Logistic Regression | ⭐⭐ | Sigmoid + BCE |
 | ✅ | Softmax Regression | ⭐⭐ | Softmax + Cross Entropy |
-| ☐ | K-Means | ⭐⭐ | Cluster Assignment + Centroid Updates |
+| ✅ | K-Means | ⭐⭐ | Cluster Assignment + Centroid Updates |
 | ☐ | Gaussian Mixture Model (GMM) | ⭐⭐⭐⭐ | Expectation-Maximization Algorithm |
 | ☐ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |
 | ☐ | Random Forest | ⭐⭐⭐ | Bagging + Multiple Trees |

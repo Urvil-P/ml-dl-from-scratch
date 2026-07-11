@@ -2,14 +2,16 @@
 
 ## 💡 One Algorithm at a Time
 | Done | Algorithm | Difficulty | Main Challenge |
-|------|-----------|------------|----------------|
-| ✅ | Linear Regression | ⭐ | Gradients |
+|:----:|-----------|:----------:|----------------|
+| ✅ | Linear Regression | ⭐ | Gradient Descent |
 | ✅ | Logistic Regression | ⭐⭐ | Sigmoid + BCE |
-| ☐ | KNN | ⭐ | Distance Computation |
-| ☐ | Naive Bayes | ⭐⭐ | Probability Calculations |
-| ☐ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |
-| ☐ | Random Forest | ⭐⭐⭐ | Multiple Decision Trees + Bootstrapping |
+| ✅ | Softmax Regression | ⭐⭐ | Softmax + Cross Entropy |
 | ☐ | K-Means | ⭐⭐ | Cluster Assignment + Centroid Updates |
-| ☐ | PCA | ⭐⭐⭐ | Covariance Matrix + Eigen Decomposition |
-| ☐ | SVM | ⭐⭐⭐⭐⭐ | Constrained Optimization |
-| ☐ | Neural Network | ⭐⭐⭐ | Backpropagation |
+| ☐ | Gaussian Mixture Model (GMM) | ⭐⭐⭐⭐ | Expectation-Maximization Algorithm |
+| ☐ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |
+| ☐ | Random Forest | ⭐⭐⭐ | Bagging + Multiple Trees |
+| ☐ | AdaBoost | ⭐⭐⭐⭐ | Weighted Samples + Weak Learners |
+| ☐ | Gradient Boosting | ⭐⭐⭐⭐ | Residual Learning |
+| ☐ | XGBoost (Simplified) | ⭐⭐⭐⭐⭐ | Regularization + Tree Optimization |
+| ☐ | Support Vector Machine (SVM) | ⭐⭐⭐⭐⭐ | Constrained Optimization |
+| ☐ | Neural Network (MLP) | ⭐⭐⭐ | Backpropagation |

@@ -11,7 +11,7 @@
 | ✅ | K-Means | ⭐⭐ | Cluster Assignment + Centroid Updates |
 | ☐ | Gaussian Mixture Model (GMM) | ⭐⭐⭐⭐ | Expectation-Maximization Algorithm |
 | ⚠️ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |
-| ☐ | Random Forest | ⭐⭐⭐ | Bagging + Multiple Trees |
+| ✅ | Random Forest | ⭐⭐⭐ | Bagging + Multiple Trees |
 | ☐ | AdaBoost | ⭐⭐⭐⭐ | Weighted Samples + Weak Learners |
 | ☐ | Gradient Boosting | ⭐⭐⭐⭐ | Residual Learning |
 | ☐ | XGBoost (Simplified) | ⭐⭐⭐⭐⭐ | Regularization + Tree Optimization |

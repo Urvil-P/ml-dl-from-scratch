@@ -3,6 +3,7 @@
 ## 💡 One Algorithm at a Time
 
 ## 🤖 Machine Learning Algorithms
+
 | Done | Algorithm | Difficulty | Main Challenge |
 |:----:|-----------|:----------:|----------------|
 | ✅ | Linear Regression | ⭐ | Gradient Descent |
@@ -12,11 +13,30 @@
 | ☐ | Gaussian Mixture Model (GMM) | ⭐⭐⭐⭐ | Expectation-Maximization Algorithm |
 | ⚠️ | Decision Tree | ⭐⭐⭐⭐ | Recursion + Best Split Search |
 | ✅ | Random Forest | ⭐⭐⭐ | Bagging + Multiple Trees |
-| ☐ | AdaBoost | ⭐⭐⭐⭐ | Weighted Samples + Weak Learners |
+| ✅ | AdaBoost | ⭐⭐⭐⭐ | Weighted Samples + Weak Learners |
 | ☐ | Gradient Boosting | ⭐⭐⭐⭐ | Residual Learning |
 | ☐ | XGBoost (Simplified) | ⭐⭐⭐⭐⭐ | Regularization + Tree Optimization |
 | ☐ | Support Vector Machine (SVM) | ⭐⭐⭐⭐⭐ | Constrained Optimization |
-| ☐ | Neural Network (MLP) | ⭐⭐⭐ | Backpropagation |
+
+## 🧠 Deep Learning Building Blocks
+
+| Done | Component | Difficulty | Main Challenge |
+|:----:|-----------|:----------:|----------------|
+| ✅ | Gradient Descent | ⭐ | Parameter Updates |
+| ✅ | Stochastic Gradient Descent (SGD) | ⭐ | Optimization |
+| ☐ | Momentum | ⭐⭐ | Velocity Updates |
+| ☐ | RMSProp | ⭐⭐⭐ | Adaptive Learning Rate |
+| ☐ | Adam | ⭐⭐⭐ | Momentum + RMSProp |
+| ✅ | Mean Squared Error (MSE) Loss | ⭐ | Regression Loss |
+| ✅ | Binary Cross Entropy (BCE) Loss | ⭐⭐ | Binary Classification |
+| ✅ | Cross Entropy Loss | ⭐⭐ | Multi-class Classification |
+| ✅ | Sigmoid | ⭐ | Binary Activation |
+| ✅ | Softmax | ⭐ | Probability Distribution |
+| ☐ | ReLU | ⭐ | Non-linearity |
+| ☐ | Leaky ReLU | ⭐ | Avoiding Dead Neurons |
+| ☐ | Tanh | ⭐ | Zero-centered Activation |
+| ☐ | Batch Normalization | ⭐⭐⭐ | Stable Training |
+| ☐ | Dropout | ⭐⭐ | Regularization |
 
 ## 🖼️ Computer Vision Algorithms
 
@@ -43,4 +63,4 @@
 | ☐ | DCGAN | ⭐⭐⭐⭐⭐ | CNN-based GAN |
 | ☐ | Vision Transformer (ViT) | ⭐⭐⭐⭐⭐ | Patch Embeddings + Self-Attention |
 
-## Natural Language Processing Algorithms
+## 📖 Natural Language Processing Algorithms
